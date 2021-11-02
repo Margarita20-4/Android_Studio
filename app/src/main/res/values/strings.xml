@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Угадай число</string>
+    <string name="behind">Недолет!</string>
+    <string name="ahead">Перелет!</string>
+    <string name="hit">В точку!</string>
+    <string name="headline">Попробуй угадать число от (1 &#8211; до 100)</string> #
+    <string name="input">Ввести значение</string> #
+    <string name="error">Введите ответ еще раз</string>
+    <string name="error2">Число не в диапазоне</string>
+    <string name="exit">Выйти из приложения</string>
+    <string name="level1">Легкий уровень</string>
+    <string name="level2">Сложный уровень</string>
+    <string name="notext" />
+</resources>
